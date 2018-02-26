@@ -10,3 +10,7 @@
 	path = bolson
 	url = https://github.com/rocketgithub/bolson.git
 	branch = 11.0
+[submodule "gface_g4s"]
+	path = gface_g4s
+	url = https://github.com/rocketgithub/gface_g4s.git
+	branch = master
